@@ -34,4 +34,18 @@ header {
     margin: 40px auto;
 }
 
+.jumbotron {
+    background-image:  url("../images/xhq5ic\ \(1\).jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    text-decoration-color: white;
+
+}
+.container {
+    font-family: 'WaltographRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 
