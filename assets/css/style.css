@@ -35,17 +35,30 @@ header {
 }
 
 .jumbotron {
-    background-image:  url("../images/xhq5ic\ \(1\).jpg");
-    background-repeat: no-repeat, repeat;
-    background-size: cover;
-    text-decoration-color: white;
+    opacity: 0.5;
 
 }
 .container {
     font-family: 'WaltographRegular';
     font-weight: normal;
     font-style: normal;
+    color: black;
+    font-style: bold;
+    font-size: 40px;
+    background-image: url("../images/background1.jpg");
 }
 
+#panel-title {
+    font-size: 40px;
+}
 
+#wordToGuess{
+    font-size: 40px;
+    opacity: 0.5;
+    
+}
+
+.panel-default {
+    opacity: 0.5;
+}
 
